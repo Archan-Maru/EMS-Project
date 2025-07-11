@@ -1,6 +1,6 @@
 # 🧑‍💼 Employee Management System (EMS)
 
-A fully functional Employee Management System built using **React + Vite**. It supports admin and employee login, task assignment, status tracking, and persistent storage via LocalStorage.
+A fully functional Employee Management System built using **React + Vite**. It supports admin and employee login, task assignment,status tracking,adding task and persistent storage via LocalStorage.
 
 ---
 
